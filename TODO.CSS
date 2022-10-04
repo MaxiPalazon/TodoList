@@ -1,0 +1,44 @@
+body{
+    background-image: url('flower.jpg');
+    width: 100%;
+}
+
+#cuadro{
+color: blueviolet;
+margin-left: 450px;
+margin-right: 400px;
+margin-top: 300px;
+text-align: center;
+}
+
+footer{
+    margin-top: 500px;
+    margin-left: 100px;
+    text-transform: lowercase;
+
+}
+
+input[type=text] {
+    height: 50%;
+    width: 50%;
+    box-sizing: border-box;
+  }
+
+  button{
+    color: rgb(247, 241, 247);
+    background-color: rgba(171, 107, 190, 0.733);
+
+  }
+
+  .texto{
+    margin-left: 720px;
+    margin-right: 680px;
+    margin-top: 20px;
+    background-color: rgb(253, 136, 228);
+    text-align: left;
+    opacity: 60%;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    text-transform: uppercase
+ }
